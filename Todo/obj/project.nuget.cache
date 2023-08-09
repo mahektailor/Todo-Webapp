@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "UBWuWyumkho19YSr2pRY3bfewN+czB1HKAOpZ/9oQJ/jk7ZtWgWG+Ld2N2G8JoC6co0XjuUoBSt6ai5b0xencQ==",
+  "success": true,
+  "projectFilePath": "/Users/user/Documents/Webapps/Todo-Webapp/Todo/Todo.csproj",
+  "expectedPackageFiles": [
+    "/Users/user/.nuget/packages/microsoft.data.sqlite/6.0.13/microsoft.data.sqlite.6.0.13.nupkg.sha512",
+    "/Users/user/.nuget/packages/microsoft.data.sqlite.core/6.0.13/microsoft.data.sqlite.core.6.0.13.nupkg.sha512",
+    "/Users/user/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.2/sqlitepclraw.bundle_e_sqlite3.2.1.2.nupkg.sha512",
+    "/Users/user/.nuget/packages/sqlitepclraw.core/2.1.2/sqlitepclraw.core.2.1.2.nupkg.sha512",
+    "/Users/user/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.2/sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
+    "/Users/user/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.2/sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
+    "/Users/user/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
